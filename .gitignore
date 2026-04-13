@@ -25,3 +25,8 @@ hunt_dataset
 hunt_dataset_split
 
 convnet_from_scratch_with_augmentation.keras
+
+*.txt
+*.model
+*.keras
+*.vocab
